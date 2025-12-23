@@ -18,7 +18,7 @@ Fork on GitHub
 
 - 🌱 I’m currently learning **Backend with node js**
 
-- 👨‍💻 All of my projects are available at [https://rox991.github.io/Portfolio-Pratik-Roy-live/](https://rox991.github.io/Portfolio-Pratik-Roy-live/)
+- 👨‍💻 All of my projects are available at [https://rox991.github.io/Portfolio-Pratik-Roy-live/](https://rox991.github.io/Portfolio-Pratik-Roy-live/) 
 
 - 💬 Ask me about **Android**
 
