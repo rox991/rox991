@@ -18,7 +18,7 @@ Fork on GitHub
 
 - 🌱 I’m currently learning **Backend with node js**
 
-- 👨‍💻 All of my projects are available at [https://rox991.github.io/windows95-Prat/] 
+- 👨‍💻 All of my projects are available at [https://rox991.github.io/windows95-Prat7/] 
 
 - 💬 Ask me about **Android**
 
